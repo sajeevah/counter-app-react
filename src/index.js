@@ -5,7 +5,7 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.css';
 // import Counters from './components/counters';
-import Counters from './components/countersChaild';
+import Counters from './components/counters';
 // import Counter from './components/counter';
 // import Counter from './components/counterDemo2';
 // import Counter from './components/counterDemo3';
